@@ -13,8 +13,9 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 3. The entire development process was done using VS Code on macOS.
 4. HTML templates were created for each page of the web app, CSS was used for basic styling.
 5. In parallel, a pretrained DenseNet121 model was used to train a set of chest xrays. The weights were then saved for use in this project.
-6. A set of permitted doctors are allowed access to login after being made 'superusers'. 
-7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations. 
+6. A set of permitted doctors are allowed access to login after being made 'superusers'.
+7. The details of these permitted doctors, i.e., the superusers who are allowed access to the system, are stored in SQL databases. Similarly, the report information for each patient is also stored in a SQL database. 
+8. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations. 
 
 
 # Installation and Instructions for Developers: 
