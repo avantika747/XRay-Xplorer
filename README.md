@@ -65,6 +65,21 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 # Screenshots of important results:
 Some important screenshots here, but for a better understanding, please do watch the videos!
 <br>
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/b0706287-ab0d-444a-947f-d163fb04a5ab)
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/fde6d8a3-4316-4571-a233-a2464b668aba)
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/4e3e4136-022f-487d-a581-2a9a50746918)
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/30c8e2f8-eb7f-483c-9632-119d95a81281)
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/2cd3509e-9bf3-48b6-bdf3-51ececaf9e94)
+![image](https://github.com/avantika747/EC530-Final-Project/assets/66120758/0dd3ab83-a04a-444b-87aa-0150f0dc974d)
+
+
+
+
+
+
+
+
+
 
 
 
