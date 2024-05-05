@@ -5,7 +5,7 @@ EC530: XRAY-XPLORER FINAL PROJECT
 
 This piece of software is designed to help doctors upload images of Chest XRays to a portal, which then processes the image and returns a result about the whether the image has any of the 14 different pathologies that the model has been trained to identify. It includes features such as user authentication, uploading and storing X-ray images, analyzing images using machine learning models, and generating medical reports based on the analysis.
 
-**Please watch the videos in the demo_videos folder to get a sense of the working**
+**Please watch the videos in the demo_videos folder to get a sense of the working. GitHub will not allow you to view the videos on the platform itself. Please click "View raw" to download the .mp4 files and watch the videos on your system.**
 
 # Features:
 1. This is a web application developed using Python's Django development framework.
