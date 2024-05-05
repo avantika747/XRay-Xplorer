@@ -9,7 +9,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 
 # Features:
 1. This is a web application developed using Python's Django development framework.
-2. Flow of action: Run Server --> Login --> XRay-Xplorer Dashboard --> Analyze XRay/Generate Report
+2. Flow of action: Run Server --> Login --> XRay-Xplorer Dashboard --> Analyze XRay/Generate Report.
 3. The entire development process was done using VS Code on macOS.
 4. HTML templates were created for each page of the web app, CSS was used for basic styling.
 5. In parallel, a pretrained DenseNet121 model was used to train a set of chest xrays. The weights were then saved for use in this project.
@@ -48,7 +48,8 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 3. Please ensure that the images used for testing are of type .png
 4. The Backend user authentication of Django was overridden in this project. A custom user backend authentication logic was developed instead. So unless you create superusers, you would not be able to access the portal.
 5. Unit Tests have been included in tests.py - GitHub Actions was also invoked to automate this.
-6. Elaborate comments have been included throughout in all parts of the project for better understanding. 
+6. Elaborate comments have been included throughout in all parts of the project for better understanding.
+7. If cloning the repository does not produce the desired results, please download the files individually and store them in a file directory that follows the same schematic.
 
 
 # EC530-Software Engineering concepts applied in this project:
