@@ -14,7 +14,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 4. HTML templates were created for each page of the web app, CSS was used for basic styling.
 5. In parallel, a pretrained DenseNet121 model was used to train a set of chest xrays. The weights were then saved for use in this project.
 6. A set of permitted doctors are allowed access to login after being made 'superusers'. 
-7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations.
+7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations. <br>
 
 
 **Installation and Instructions for Developers:** <br>
@@ -42,7 +42,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
    python manage.py runserver
    ```
 
-
+<br>
 **Other Important Points:**
 1. If you run into problems while running the server, please make sure to install all dependencies using pip install.
 2. You can use the images in the test_images folder for testing.
@@ -51,7 +51,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 5. Unit Tests have been included in tests.py - GitHub Actions was also invoked to automate this.
 6. Elaborate comments have been included throughout in all parts of the project for better understanding. 
 
-
+<br>
 **EC530-Software Engineering concepts applied in this project:**
 1. Software Development - Continuous Integration, Continuous Development
 2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms
