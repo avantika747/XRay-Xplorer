@@ -50,7 +50,8 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 5. Unit Tests have been included in tests.py - GitHub Actions was also invoked to automate this.
 6. Elaborate comments have been included throughout in all parts of the project for better understanding.
 7. If cloning the repository does not produce the desired results, please download the files individually and store them in a file directory that follows the same schematic.
-8. The weights used to train the DenseNet model have not been included in this repository owing to memory constraints, since it is a large .h5 file over 25MB. If the weights are required for personal use or experimentation, please raise a GitHub Issue and allow time for a response from me. 
+8. The weights used to train the DenseNet model have not been included in this repository owing to memory constraints, since it is a large .h5 file over 25MB. If the weights are required for personal use or experimentation, please raise a GitHub Issue and allow time for a response from me.
+9. This project will continue to be updated in the future for more bug fixes, feature updates, functionality improvements and so on. 
 
 
 # EC530-Software Engineering concepts applied in this project:
@@ -60,6 +61,10 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 4. Application Frameworks - Web Framework using Python's Django
 5. AI/ML - Image Classification using DenseNet121 model
 
+
+# Screenshots of important results:
+Some important screenshots here, but for a better understanding, please do watch the videos!
+<br>
 
 
 
