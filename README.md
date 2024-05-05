@@ -1,7 +1,7 @@
 # EC530-Final-Project
 EC530: XRAY-XPLORER FINAL PROJECT
 
-# Welcome to the XRay Xplorer project!
+# Welcome to the XRay-Xplorer project!
 
 This piece of software is designed to help doctors upload images of Chest XRays to a portal, which then processes the image and returns a result about the whether the image has any of the 14 different pathologies that the model has been trained to identify. It includes features such as user authentication, uploading and storing X-ray images, analyzing images using machine learning models, and generating medical reports based on the analysis.
 
