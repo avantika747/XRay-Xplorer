@@ -23,7 +23,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
    git clone https://github.com/avantika747/EC530-Final-Project
    ```
 2. It is recommended to use VS Code.
-3. Navigate to the directory <br>
+3. Navigate to the directory 
    ```bash
    cd name_of_directory
    ```
@@ -53,8 +53,8 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 
 # EC530-Software Engineering concepts applied in this project:
 1. Software Development - Continuous Integration, Continuous Development
-2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms
-3. Data Management - SQL Databases
+2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms, User Authentication, Generating Report PDFs
+3. Data Management - SQL Databases to store information of permitted superusers and patient's report information
 4. Application Frameworks - Web Framework using Python's Django
 5. AI/ML - Image Classification using DenseNet121 model
 
