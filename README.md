@@ -19,9 +19,11 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 **Installation:** <br>
 1. To install, please clone the entire repository to your Desktop to run locally.
    '''bash
+   # Clone repository <br>
    git clone https://github.com/avantika747/EC530-Final-Project
    '''
-2. It is recommended to use VS Code.
-3. Navigate to the directory
-   '''bash
+3. It is recommended to use VS Code.
+4. '''bash
+   # Navigate to the directory <br>
    cd < name of directory >
+   '''
