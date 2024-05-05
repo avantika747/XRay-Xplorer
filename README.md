@@ -19,7 +19,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 
 **Installation and Instructions for Developers:** <br>
 1. To install, please clone the entire repository to your Desktop to run locally.
-   '''bash
+   ```bash
    Clone repository
    git clone https://github.com/avantika747/EC530-Final-Project
 2. It is recommended to use VS Code.
@@ -33,7 +33,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
    You will be prompted to enter a username and a password (password twice for confirmation).
 7. Run the server
    python manage.py runserver
-   '''
+   ```
 
 **Other Important Points:**
 1. If you run into problems while running the server, please make sure to install all dependencies using pip install.
