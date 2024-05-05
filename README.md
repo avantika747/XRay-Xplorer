@@ -20,18 +20,25 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 **Installation and Instructions for Developers:** <br>
 1. To install, please clone the entire repository to your Desktop to run locally.
    ```bash
-   Clone repository
    git clone https://github.com/avantika747/EC530-Final-Project
+   ```
 2. It is recommended to use VS Code.
-3. Navigate to the directory
-   cd <name of directory>
+3. Navigate to the directory <br>
+   ```bash
+   cd name_of_directory
+   ```
 4. Install all necessary dependencies.
 5. Set up the SQL database
+   ```bash
    python manage.py migrate
-6. If you wish to add more superusers with access to the XRay-Xplorer portal, you can do so by:
+   ```
+7. If you wish to add more superusers with access to the XRay-Xplorer portal, you can do so by:
+   ```bash
    python manage.py createsuperuser
+   ```
    You will be prompted to enter a username and a password (password twice for confirmation).
-7. Run the server
+9. Run the server
+   ```bash
    python manage.py runserver
    ```
 
