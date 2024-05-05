@@ -7,17 +7,17 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 
 **Please watch the videos in the demo_videos folder to get a sense of the working**
 
-**Features:** <br>
+# Features:
 1. This is a web application developed using Python's Django development framework.
 2. Flow of action: Run Server --> Login --> XRay-Xplorer Dashboard --> Analyze XRay/Generate Report
 3. The entire development process was done using VS Code on macOS.
 4. HTML templates were created for each page of the web app, CSS was used for basic styling.
 5. In parallel, a pretrained DenseNet121 model was used to train a set of chest xrays. The weights were then saved for use in this project.
 6. A set of permitted doctors are allowed access to login after being made 'superusers'. 
-7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations. <br>
+7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations. 
 
 
-**Installation and Instructions for Developers:** <br>
+# Installation and Instructions for Developers: 
 1. To install, please clone the entire repository to your Desktop to run locally.
    ```bash
    git clone https://github.com/avantika747/EC530-Final-Project
@@ -42,8 +42,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
    python manage.py runserver
    ```
 
-<br>
-**Other Important Points:**
+# Other Important Points:
 1. If you run into problems while running the server, please make sure to install all dependencies using pip install.
 2. You can use the images in the test_images folder for testing.
 3. Please ensure that the images used for testing are of type .png
@@ -51,8 +50,8 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 5. Unit Tests have been included in tests.py - GitHub Actions was also invoked to automate this.
 6. Elaborate comments have been included throughout in all parts of the project for better understanding. 
 
-<br>
-**EC530-Software Engineering concepts applied in this project:**
+
+# EC530-Software Engineering concepts applied in this project:
 1. Software Development - Continuous Integration, Continuous Development
 2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms
 3. Data Management - SQL Databases
