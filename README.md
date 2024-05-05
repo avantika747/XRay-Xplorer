@@ -16,7 +16,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 6. A set of permitted doctors are allowed access to login after being made 'superusers'. 
 7. This project makes use of all main functionalities of a application made using Django - views, forms, sqlite database, urls, migrations.
 
-<br>
+
 **Installation and Instructions for Developers:** <br>
 1. To install, please clone the entire repository to your Desktop to run locally.
    ```bash
@@ -42,7 +42,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
    python manage.py runserver
    ```
 
-<br>
+
 **Other Important Points:**
 1. If you run into problems while running the server, please make sure to install all dependencies using pip install.
 2. You can use the images in the test_images folder for testing.
