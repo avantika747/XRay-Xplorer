@@ -49,7 +49,25 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 3. Please ensure that the images used for testing are of type .png
 4. The Backend user authentication of Django was overridden in this project. A custom user backend authentication logic was developed instead. So unless you create superusers, you would not be able to access the portal.
 5. Unit Tests have been included in tests.py - GitHub Actions was also invoked to automate this.
-6. 
+6. Elaborate comments have been included throughout in all parts of the project for better understanding. 
+
+
+**EC530-Software Engineering concepts applied in this project:**
+1. Software Development - Continuous Integration, Continuous Development
+2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms
+3. Data Management - SQL Databases
+4. Application Frameworks - Web Framework using Python's Django
+5. AI/ML - Image Classification using DenseNet121 model
+
+
+
+
+
+
+
+
+
+
 
 
 
