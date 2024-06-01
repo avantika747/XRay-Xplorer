@@ -1,4 +1,4 @@
-# EC530-Final-Project
+# EC530 - XRAY-XPLORER
 EC530: XRAY-XPLORER FINAL PROJECT
 
 # Welcome to the XRay-Xplorer project!
