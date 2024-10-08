@@ -54,7 +54,7 @@ This piece of software is designed to help doctors upload images of Chest XRays 
 9. This project will continue to be updated in the future for more bug fixes, feature updates, functionality improvements and so on. 
 
 
-# EC530-Software Engineering concepts applied in this project:
+# Software Engineering concepts applied in this project:
 1. Software Development - Continuous Integration, Continuous Development
 2. Modularity - Web Services, HTTP Requests, HTML-CSS Templates, Forms, User Authentication, Generating Report PDFs
 3. Data Management - SQL Databases to store information of permitted superusers and patient's report information
